@@ -1,4 +1,5 @@
 # ProtectPay
+![image](https://user-images.githubusercontent.com/41955105/113502037-30455980-9547-11eb-85d6-d2daba5ad15e.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
